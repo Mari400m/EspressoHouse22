@@ -1,15 +1,15 @@
 <footer class="footer">
     <div class="wrapper">
         <nav class="secondary-navigation">
-            <span>OM OS</span>
-            <span>PRESSE</span>
-            <span>PRIVACY NOTICE</span>
-            <span>COOKIE POLICY </span>
-            <span>FAQ</span>
-            <span>NYHEDER</span>
-            <span>SMILEYRAPPORTER</span>
-            <span>TOMORROW FRIENDLY</span>
-            <span>CAPSULES</span>
+            <a href="#om os">OM OS</a>
+            <a href="#presse">PRESSE</a>
+            <a href="#privacy notice">PRIVACY NOTICE</a>
+            <a href="#cookie policy">COOKIE POLICY </a>
+            <a href="#faq">FAQ</a>
+            <a href="#nyheder">NYHEDER</a>
+            <a href="#smileyrapporter">SMILEYRAPPORTER</a>
+            <a href="#tomorrow friendly">TOMORROW FRIENDLY</a>
+            <a href="#capsules">CAPSULES</a>
         </nav>
     </div>
 </footer>
