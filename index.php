@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Espresso House </title>
+    <title> Espresso House </title>
 
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
