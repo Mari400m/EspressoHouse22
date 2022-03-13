@@ -1,5 +1,5 @@
 <div class="navigation">
-    <a href="footer.php">footer</a>
+    <a href="footer.php"></a>
     <a href="#"></a>
     <a href="#"></a>
     <a href="#"></a>
