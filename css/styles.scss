@@ -101,23 +101,42 @@ img {vertical-align: middle;}
 }
 </style>
 
+<style>
+ * {
+	 box-sizing: border-box;
+ }
 
-
-/* Add a black background color to the footer */
-.footer {
-	background-color: #333333;
-	overflow: hidden;
+body {
+	margin: 0;
 }
 
-/* Style the links inside the footer */
+/* Style the header */
+.footer {
+	background-color: #312417;
+	padding: 20px;
+	text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+	overflow: hidden;
+	background-color: #312417;
+}
+
+/* Style the topnav links */
 .footer a {
-	color: #f2f2f2;
+	float: center;
+	color: #E8E4D9;
+	text-align: center;
+	padding: 14px 16px;
+	background-color: #312417;
 	text-decoration: none;
 	font-size: 17px;
 }
 
-/* Change the color of links on hover */
+/* Change color on hover */
 .footer a:hover {
-	background-color: #ddd;
-	color: black;
+	background-color: #312417;
+	color: #87B29E;
 }
+</style>
