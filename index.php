@@ -17,31 +17,12 @@
 
 <body>
 
-<div class="navigation">
-    <a href="#">Forside</a>
-    <a href="#">Om os</a>
-    <a href="#">Kontakt</a>
-</div>
-<div>Lorem ipsum</div>
-<div class="main">
-
-    <div class="footer">
-        <div>
-            <a href="#">Link</a>
-            <a href="#">Link</a>
-            <a href="#">Link</a>
-        </div>
-        <div>
-            <a href="#">Link</a>
-            <a href="#">Link</a>
-            <a href="#">Link</a>
-        </div>
-        <div>
-            <a href="#">Link</a>
-            <a href="#">Link</a>
-            <a href="#">Link</a>
-        </div>
-    </div>
+<div class="vertical-menu">
+    <a href="#" class="active">Home</a>
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+    <a href="#">Link 4</a>
 </div>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
