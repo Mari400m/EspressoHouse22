@@ -17,10 +17,32 @@
 
 <body>
 
-<div>
-    <h1>Hej</h1>
+<div class="navigation">
+    <a href="#">Forside</a>
+    <a href="#">Om os</a>
+    <a href="#">Kontakt</a>
 </div>
+    <div>Lorem ipsum</div>
+<div class="main">
 
+    <div class="footer">
+        <div>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </div>
+        <div>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </div>
+        <div>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+        </div>
+    </div>
+</div>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
