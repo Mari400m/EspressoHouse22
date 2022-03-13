@@ -100,3 +100,24 @@ img {vertical-align: middle;}
 	color: black;
 }
 </style>
+
+
+
+/* Add a black background color to the footer */
+.footer {
+	background-color: #333333;
+	overflow: hidden;
+}
+
+/* Style the links inside the footer */
+.footer a {
+	color: #f2f2f2;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.footer a:hover {
+	background-color: #ddd;
+	color: black;
+}
