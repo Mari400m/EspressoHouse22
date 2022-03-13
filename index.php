@@ -28,7 +28,6 @@
 
 <h2 style="text-align:center">Multiple Slideshows</h2>
 
-<p>Slideshow 1:</p>
 <div class="slideshow-container">
     <div class="mySlides1">
         <img src="images/1.png" style="width:100%">
@@ -46,7 +45,6 @@
     <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
 
-<p>Slideshow 2:</p>
 <div class="slideshow-container">
     <div class="mySlides2">
         <img src="images/logo.png" style="width:100%">
