@@ -62,21 +62,6 @@
     <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
 </div>
 
-<div class="card mb-3" style="max-width: 540px;">
-    <div class="row g-0">
-        <div class="col-md-4">
-            <img src="..." class="img-fluid rounded-start" alt="...">
-        </div>
-        <div class="col-md-8">
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-            </div>
-        </div>
-    </div>
-</div>
-
 <script>
     var slideIndex = [1,1];
     var slideId = ["mySlides1", "mySlides2"]
@@ -98,6 +83,22 @@
         x[slideIndex[no]-1].style.display = "block";
     }
 </script>
+
+<div class="card mb-3" style="max-width: 540px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="barrista">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+    </div>
+</div>
+
 <?php include "includes/footer.php"; ?>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
