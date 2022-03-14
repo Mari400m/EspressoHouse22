@@ -111,12 +111,12 @@
 
 <div class="container-fluid p-3">
     <div class="d-flex d-row justify-content-evenly">
-        <p>Varme drikke</p>
-        <p>Varme drikke</p>
+        <h4>Kolde Drikke</h4>
+        <h4>Mad</h4>
     </div>
     <div class="d-flex d-row justify-content-evenly">
-        <p>Varme drikke</p>
-        <p>Varme drikke</p>
+        <h4>Varme Drikke</h4>
+        <h4>Bagværk</h4>
     </div>
 </div>
 
