@@ -20,10 +20,10 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="topnav">
-    <a class="active" href="#home">Home</a>
-    <a href="#news">News</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
+    <a class="active" href="#menu">Menu</a>
+    <a href="#Butikker">Butikker</a>
+    <a href="#ontakt">Kontakt</a>
+    <a href="#omos">Om os</a>
 </div>
 
 <h2 style="text-align:center">Multiple Slideshows</h2>
