@@ -79,7 +79,7 @@
 </div>
 
 
-<div class="card mb-3" style="max-width: 75%;">
+<div class="card mb-3" style="max-width: 80%;">
     <div class="row g-0">
         <div class="col-md-4">
             <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
