@@ -42,11 +42,13 @@
                     <img src="images/2.png" class="d-block w-100" alt="...">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -65,11 +67,13 @@
                     <img src="images/1.png" class="d-block w-100" alt="...">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -77,18 +81,23 @@
     </div>
 </div>
 
+<br><br>
 
-<div class="row">
-    <div col-4>
-        <img src="images/kort.png" style="max-width: 25%;" alt="kort"
-    </div>
-    <div col-4>
-        <img src="images/gavekort.png" style="max-width: 500px;" alt="gavekort"
-    </div>
-    <div>
-        <img src="images/kaffe1.png" style="max-width: 25%;" alt="kaffe1"
+<div class="container p-3">
+    <div class="row">
+        <div col-4>
+            <img src="images/kort.png" style="max-width: 25%" class="rounded float-start" alt="kort"
+        </div>
+        <div col-4>
+            <img src="images/gavekort.png" style="max-width: 25%" class="rounded float-end" alt="gavekort"
+        </div>
+        <div col-4>
+            <img src="images/kaffe2.png" style="max-width: 25%;" class="rounded mx-auto d-block" alt="kaffe1"
+        </div>
     </div>
 </div>
+
+<br><br>
 
 <div class="card mb-3" style="max-width: 100%;">
     <div class="row g-0">
@@ -99,9 +108,12 @@
             <div class="card-body">
                 <h5 class="card-title">TOMORROW FRIENDLY</h5>
                 <p class="card-text">
-                    At Espresso House we take sustainability seriously and like many, we want to contribute to a sustainable future.
-                    To be tomorrow friendly is a significant drive force within our organization and we are constantly improving our operations in order to secure a legacy we can be proud of.
-                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase just that.
+                    At Espresso House we take sustainability seriously and like many, we want to contribute to a
+                    sustainable future.
+                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
+                    improving our operations in order to secure a legacy we can be proud of.
+                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
+                    just that.
                 </p>
                 <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
             </div>
@@ -109,7 +121,9 @@
     </div>
 </div>
 
-<div class="container-fluid p-3">
+<br><br>
+
+<div class="container-fluid">
     <div class="d-flex d-row justify-content-evenly">
         <h4>Kolde Drikke</h4>
         <h4>Mad</h4>
