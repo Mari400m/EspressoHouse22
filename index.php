@@ -117,13 +117,13 @@
     </div>
 </div>
 
-<div class="row"><
+<div class="row">
     <div class="col-6">
         <div class="container px-4 py-5" id="hanging-icons">
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                     <div class="col d-flex align-items-start">
                         <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                            <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
+                            <img id="cake" src="cold.png" srcset="cold.png 1x, cake@2x.png 2x">
                         </div>
                         <div>
                             <h2>Kolde drikke</h2>
@@ -135,7 +135,7 @@
                     </div>
                     <div class="col d-flex align-items-start">
                         <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                            <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"/></svg>
+                            <img id="cake" src="coffee.png" srcset="coffee.png 1x, coffee@2x.png 2x">
                         </div>
                         <div>
                             <h2>Varme drikke</h2> <i class="fa-duotone fa-cup-togo"></i>
@@ -153,7 +153,7 @@
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
                 <div class="col d-flex align-items-start">
                     <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                        <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
+                        <img id="cake" src="food.png" srcset="food.png 1x, food@2x.png 2x">
                     </div>
                     <div>
                         <h2>Mad</h2>
@@ -165,7 +165,7 @@
                 </div>
                 <div class="col d-flex align-items-start">
                     <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                        <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"/></svg>
+                        <img id="cake" src="cake.png" srcset="cake.png 1x, cake@2x.png 2x">
                     </div>
                     <div>
                         <h2>Bagværk</h2>
