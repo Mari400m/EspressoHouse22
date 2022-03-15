@@ -79,22 +79,27 @@
 
 <br><br>
 
-<div class="container p-3">
+<hr>
+
+<div class="container1 p-3">
     <div class="row">
-        <div col-4>
-            <img src="images/kort.png" style="max-width: 25%" class="rounded float-start" alt="kort"
+        <div class="col">
+            <img src="images/kort.png" style="max-width: 25%" class="image1 rounded float-start" alt="kort"
+            <div class="middle">
+                <div class="text">kort</div>
+            </div>
         </div>
-        <div col-4>
+        <div class="col">
             <img src="images/gavekort.png" style="max-width: 25%" class="rounded float-end" alt="gavekort"
         </div>
-        <div col-4>
+        <div class="col">
             <img src="images/kaffe2.png" style="max-width: 25%;" class="rounded mx-auto d-block" alt="kaffe1"
         </div>
     </div>
 </div>
 
 <br><br>
-
+<hr class="">Bæredygtighed<hr>
 <div class="card mb-3" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4">
@@ -148,7 +153,7 @@
 </div>
 <div class="container px-4 py-5" id="hanging-icons">
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-        <div class="col d-flex align-items-start">
+        <div class="col-6 d-flex align-items-start">
             <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
                 <img id="cake" src="food.png" srcset="food.png 1x, food@2x.png 2x">
             </div>
@@ -160,7 +165,7 @@
                 </a>
             </div>
         </div>
-        <div class="col d-flex align-items-start">
+        <div class="col-6 d-flex align-items-start">
             <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
                 <img id="cake" src="cake.png" srcset="cake.png 1x, cake@2x.png 2x">
             </div>
