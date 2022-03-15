@@ -109,14 +109,66 @@
     </div>
 </div>
 
-<div class="container-fluid p-3">
-    <div class="d-flex d-row justify-content-evenly">
-        <h4>Kolde Drikke</h4>
-        <h4>Mad</h4>
+<div class="row"><
+    <div class="col-6">
+        <div class="container px-4 py-5" id="hanging-icons">
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+                    <div class="col d-flex align-items-start">
+                        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                            <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
+                        </div>
+                        <div>
+                            <h2>Kolde drikke</h2>
+                            <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                            <a href="#" class="btn btn-primary">
+                                Læs mere her
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col d-flex align-items-start">
+                        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                            <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"/></svg>
+                        </div>
+                        <div>
+                            <h2>Varme drikke</h2> <i class="fa-duotone fa-cup-togo"></i>
+                            <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                            <a href="#" class="btn btn-primary">
+                                Læs mere her
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
     </div>
-    <div class="d-flex d-row justify-content-evenly">
-        <h4>Varme Drikke</h4>
-        <h4>Bagværk</h4>
+    <div class="col-6">
+        <div class="container px-4 py-5" id="hanging-icons">
+            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
+                    </div>
+                    <div>
+                        <h2>Mad</h2>
+                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <a href="#" class="btn btn-primary">
+                            Læs mere her
+                        </a>
+                    </div>
+                </div>
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <svg class="bi" width="1em" height="1em"><use xlink:href="#cpu-fill"/></svg>
+                    </div>
+                    <div>
+                        <h2>Bagværk</h2>
+                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <a href="#" class="btn btn-primary">
+                            Læs mere her
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
