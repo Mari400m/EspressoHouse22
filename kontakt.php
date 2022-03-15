@@ -43,79 +43,63 @@
     <div class="clearfix">
         <img src="images/logo.png" class="col-lg-3 float-md-end mb-3 ms-md-3" alt="...">
 
-        <p>
-        <h1>Kontakt</h1>
-        <br>
-        Tøv ikke med at kontakte os, hvis du har spørgsmål om vores forretning, produkter, åbninger, rekrutteringer,
-        eller hvis du har ris eller ros, du vil dele. Svarene på de mest almindelige spørgsmål finder du i vores FAQ
+        <h5 class="card-title">Kontakt</h5>
+        <p class="card-text">
+            Tøv ikke med at kontakte os,
         </p>
 
         <p>
-            Hvis ikke er du velkommen til at kontakte os på info_dk@espressohouse.com
+            hvis du har spørgsmål om vores forretning, produkter, åbninger,
         </p>
-
-        <br>
 
         <p>
-        <h1>Administration</h1>
-        Vimmelskaftet 43, 4. sal DK-1161 København K Tel 33 93 98 28 CVR 10 01 16 63 info_dk@espressohouse.com (for
-        ris/ros og generel info/kontakt til Espresso House Danmark) dksupplierinvoice@espressohouse.se (for al
-        fakturering til Espresso House Danmark) Kontrol rapport
+            rekrutteringer,
         </p>
+
+        <p>
+            eller hvis du har ris eller ros, du vil dele.
+        </p>
+
+        <p class="card-text">
+            Svarene på de mest almindelige spørgsmål finder du i vores FAQ
+        </p>
+
+        <p class="card-text">
+            Hvis ikke er du velkommen til at kontakte os på <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
+        </p>
+
+    </div>
+
+    <h5 class="card-title">Administration</h5>
+
+    <p class="card-text">
+        Vimmelskaftet 43, 4. sal DK-1161 København K
+    </p>
+
+    <p class="card-text">
+        Tel 33 93 98 28
+    </p>
+
+    <p class="card-text">
+        CVR 10 01 16 63
+    </p>
+
+    <br>
+
+    <p class="card-text">
+        For ris/ros og generel info/kontakt til Espresso House Danmark <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
+    </p>
+
+    <p class="card-text">
+        For al fakturering til Espresso House Danmark <a href="Dksupplierinvoice@espressohouse.se">Dksupplierinvoice@espressohouse.se</a>
+    </p>
+
+    <p class="card-text pb-5">
+        Kontrolrapport <a href="kontrolrapport">Kontrolrapport</a>
+    </p>
+
     </div>
 </div>
-
-<br><br>
-
-<div class="card mb-3" style="max-width: 100%;">
-    <div class="row g-0">
-        <div class="col-md-4">
-            <img src="images/logo.png" class="img-fluid rounded-start" alt="...">
-        </div>
-        <div class="cols-md-8">
-            <div class="card-body">
-                <h5 class="card-title">Kontakt</h5>
-                <p class="card-text">
-                    Tøv ikke med at kontakte os, hvis du har spørgsmål om vores forretning, produkter, åbninger,
-                    rekrutteringer,
-                    eller hvis du har ris eller ros, du vil dele.
-                </p>
-                <p class="card-text">
-                    Svarene på de mest almindelige spørgsmål finder du i vores FAQ
-                </p>
-                <p class="card-text">
-                    Hvis ikke er du velkommen til at kontakte os på <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
-                </p>
-            </div>
-
-                <br>
-
-            <div class="card-body">
-                <h5 class="card-title">Administration</h5>
-                <p class="card-text">
-                    Vimmelskaftet 43, 4. sal DK-1161 København K
-                </p>
-                <p class="card-text">
-                    Tel 33 93 98 28
-                </p>
-                <p class="card-text">
-                    CVR 10 01 16 63
-                </p>
-
-                <br>
-
-                <p class="card-text">
-                    For ris/ros og generel info/kontakt til Espresso House Danmark <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
-                </p>
-                <p class="card-text">
-                    For al fakturering til Espresso House Danmark <a href="Dksupplierinvoice@espressohouse.se">Dksupplierinvoice@espressohouse.se</a>
-                </p>
-                <p class="card-text">
-                    Kontrolrapport <a href="kontrolrapport">Kontrolrapport</a>
-                </p>
-            </div>
-        </div>
-    </div>
 
 <?php include "includes/footer.php"; ?>
 </body>
