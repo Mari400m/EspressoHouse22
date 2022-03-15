@@ -42,11 +42,13 @@
                     <img src="images/2.png" class="d-block w-100" alt="...">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -65,11 +67,13 @@
                     <img src="images/1.png" class="d-block w-100" alt="...">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -95,23 +99,27 @@
 
 <br><br>
 
-<div class="card mb-3" style="max-width: 100%;">
-    <div class="row g-0">
-        <div class="col-md-4">
-            <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
-        </div>
-        <div class="col-md-8">
-            <div class="card-body">
-                <h5 class="card-title">TOMORROW FRIENDLY</h5>
-                <p class="card-text">
-                    At Espresso House we take sustainability seriously and like many, we want to contribute to a
-                    sustainable future.
-                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
-                    improving our operations in order to secure a legacy we can be proud of.
-                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
-                    just that.
-                </p>
-                <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
+<div class="container-fluid bg-danger">
+    <div class="card mb-3" style="max-width: 100%;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">TOMORROW FRIENDLY</h5>
+                    <p class="card-text">
+                        At Espresso House we take sustainability seriously and like many, we want to contribute to a
+                        sustainable future.
+                        To be tomorrow friendly is a significant drive force within our organization and we are
+                        constantly
+                        improving our operations in order to secure a legacy we can be proud of.
+                        We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to
+                        showcase
+                        just that.
+                    </p>
+                    <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
+                </div>
             </div>
         </div>
     </div>
@@ -121,30 +129,32 @@
     <div class="col-6">
         <div class="container px-4 py-5" id="hanging-icons">
             <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-                    <div class="col d-flex align-items-start">
-                        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                            <img id="cake" src="cold.png" srcset="cold.png 1x, cake@2x.png 2x">
-                        </div>
-                        <div>
-                            <h2>Kolde drikke</h2>
-                            <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                            <a href="#" class="btn btn-primary">
-                                Læs mere her
-                            </a>
-                        </div>
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <img id="cake" src="cold.png" srcset="cold.png 1x, cake@2x.png 2x">
                     </div>
-                    <div class="col d-flex align-items-start">
-                        <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                            <img id="cake" src="coffee.png" srcset="coffee.png 1x, coffee@2x.png 2x">
-                        </div>
-                        <div>
-                            <h2>Varme drikke</h2> <i class="fa-duotone fa-cup-togo"></i>
-                            <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                            <a href="#" class="btn btn-primary">
-                                Læs mere her
-                            </a>
-                        </div>
+                    <div>
+                        <h2>Kolde drikke</h2>
+                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                            sentence and probably just keep going until we run out of words.</p>
+                        <a href="#" class="btn btn-primary">
+                            Læs mere her
+                        </a>
                     </div>
+                </div>
+                <div class="col d-flex align-items-start">
+                    <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+                        <img id="cake" src="coffee.png" srcset="coffee.png 1x, coffee@2x.png 2x">
+                    </div>
+                    <div>
+                        <h2>Varme drikke</h2> <i class="fa-duotone fa-cup-togo"></i>
+                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                            sentence and probably just keep going until we run out of words.</p>
+                        <a href="#" class="btn btn-primary">
+                            Læs mere her
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -157,7 +167,8 @@
                     </div>
                     <div>
                         <h2>Mad</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                            sentence and probably just keep going until we run out of words.</p>
                         <a href="#" class="btn btn-primary">
                             Læs mere her
                         </a>
@@ -169,7 +180,8 @@
                     </div>
                     <div>
                         <h2>Bagværk</h2>
-                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                            sentence and probably just keep going until we run out of words.</p>
                         <a href="#" class="btn btn-primary">
                             Læs mere her
                         </a>
