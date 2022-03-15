@@ -37,6 +37,38 @@
     <a href="#omos">Om os</a>
 </div>
 
+<div class="card mb-3 bg-kortbaggrund" style="max-width: 100%;">
+    <div class="row g-0">
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">Kontakt</h5>
+                <p class="card-text">
+                    At Espresso House we take sustainability seriously and like many, we want to contribute to a
+                    sustainable future.
+                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
+                    improving our operations in order to secure a legacy we can be proud of.
+                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
+                    just that.
+                </p>
+                <h5 class="card-title">Administration</h5>
+                <p class="card-text">
+                    At Espresso House we take sustainability seriously and like many, we want to contribute to a
+                    sustainable future.
+                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
+                    improving our operations in order to secure a legacy we can be proud of.
+                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
+                    just that.
+                </p>
+                <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <img src="images/logo.png" class="img-fluid rounded-start" alt="logo">
+        </div>
+    </div>
+</div>
+
 
 
 <?php include "includes/footer.php"; ?>
