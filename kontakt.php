@@ -18,6 +18,8 @@
     <meta name="copyright" content="Information om copyright">
 
     <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
+
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
 
     <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
@@ -27,7 +29,15 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+<?php include "includes/navigation.php"; ?>
+<div class="topnav">
+    <a class="active" href="#menu">Menu</a>
+    <a href="#Butikker">Butikker</a>
+    <a href="#kontakt">Kontakt</a>
+    <a href="#omos">Om os</a>
+</div>
 
+
+<?php include "includes/footer.php"; ?>
 </body>
 </html>
