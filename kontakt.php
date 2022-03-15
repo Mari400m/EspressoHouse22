@@ -68,35 +68,35 @@
             Hvis ikke er du velkommen til at kontakte os på <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
         </p>
 
-    </div>
+        <br>
 
-    <h5 class="card-title">Administration</h5>
+        <h5 class="card-title">Administration</h5>
 
-    <p class="card-text">
-        Vimmelskaftet 43, 4. sal DK-1161 København K
-    </p>
+        <p class="card-text">
+            Vimmelskaftet 43, 4. sal DK-1161 København K
+        </p>
 
-    <p class="card-text">
-        Tel 33 93 98 28
-    </p>
+        <p class="card-text">
+            Tel 33 93 98 28
+        </p>
 
-    <p class="card-text">
-        CVR 10 01 16 63
-    </p>
+        <p class="card-text">
+            CVR 10 01 16 63
+        </p>
 
-    <br>
+        <br>
 
-    <p class="card-text">
-        For ris/ros og generel info/kontakt til Espresso House Danmark <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
-    </p>
+        <p class="card-text">
+            For ris/ros og generel info/kontakt til Espresso House Danmark <a href="Info_dk@espressohouse.com">Info_dk@espressohouse.com</a>
+        </p>
 
-    <p class="card-text">
-        For al fakturering til Espresso House Danmark <a href="Dksupplierinvoice@espressohouse.se">Dksupplierinvoice@espressohouse.se</a>
-    </p>
+        <p class="card-text">
+            For al fakturering til Espresso House Danmark <a href="Dksupplierinvoice@espressohouse.se">Dksupplierinvoice@espressohouse.se</a>
+        </p>
 
-    <p class="card-text pb-5">
-        Kontrolrapport <a href="kontrolrapport">Kontrolrapport</a>
-    </p>
+        <p class="card-text pb-5">
+            Kontrolrapport <a href="kontrolrapport">Kontrolrapport</a>
+        </p>
 
     </div>
 </div>
