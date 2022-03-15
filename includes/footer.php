@@ -1,11 +1,11 @@
 <footer class="footer">
-    <a href="#om os">OM OS</a>
-    <a href="#presse">PRESSE</a>
-    <a href="#privacy notice">PRIVACY NOTICE</a>
-    <a href="#cookie policy">COOKIE POLICY </a>
+    <a href="#om os">Om os</a>
+    <a href="#presse">Presse</a>
+    <a href="#privacy notice">Privacy notice</a>
+    <a href="#cookie policy">Cookie policy </a>
     <a href="#faq">FAQ</a>
-    <a href="#nyheder">NYHEDER</a>
-    <a href="#smileyrapporter">SMILEYRAPPORTER</a>
-    <a href="#tomorrow friendly">TOMORROW FRIENDLY</a>
-    <a href="#capsules">CAPSULES</a>
+    <a href="#nyheder">Nyheder</a>
+    <a href="#smileyrapporter">Smileyrapporter</a>
+    <a href="#tomorrow friendly">Tomorrow Friendly</a>
+    <a href="#capsules">Capsules</a>
 </footer>
