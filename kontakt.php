@@ -37,38 +37,72 @@
     <a href="#omos">Om os</a>
 </div>
 
-<div class="card mb-3 bg-kortbaggrund" style="max-width: 100%;">
-    <div class="row g-0">
-        <div class="col-md-8">
-            <div class="card-body">
-                <h5 class="card-title">Kontakt</h5>
-                <p class="card-text">
-                    At Espresso House we take sustainability seriously and like many, we want to contribute to a
-                    sustainable future.
-                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
-                    improving our operations in order to secure a legacy we can be proud of.
-                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
-                    just that.
-                </p>
-                <h5 class="card-title">Administration</h5>
-                <p class="card-text">
-                    At Espresso House we take sustainability seriously and like many, we want to contribute to a
-                    sustainable future.
-                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
-                    improving our operations in order to secure a legacy we can be proud of.
-                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
-                    just that.
-                </p>
-                <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
-
+<container class="">
+    <div class="card mb-3" style="max-width: 100%;">
+        <div class="row g-0">
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">Kontakt</h5>
+                    <p class="card-text ps-3">
+                        Tøv ikke med at kontakte os, hvis du har
+                    </p>
+                    <p class="card-text ps-3">
+                        spørgsmål om vores forretning, produkter,
+                    </p>
+                    <p class="card-text ps-3">
+                        åbninger, rekrutteringer, eller hvis du har ris
+                    </p>
+                    <p class="card-text ps-3">
+                        eller ros, du vil dele. Svarene på de mest
+                    </p>
+                    <p class="card-text ps-3">
+                        almindelige spørgsmål finder du i vores FAQ
+                    </p>
+                    <p class="card-text ps-3">
+                        – hvis ikke er du velkommen til at kontakte
+                    </p>
+                    <p class="card-text ps-3">
+                        os på info_dk@espressohouse.com
+                    </p>
+                    <h5 class="card-title pt-5">Administration</h5>
+                    <p class="card-text ps-3">
+                        Vimmelskaftet 43, 4. sal
+                    </p>
+                    <p class="card-text ps-3">
+                        DK-1161 København K
+                    </p>
+                    <p class="card-text ps-3">
+                        Tel 33 93 98 28
+                    </p>
+                    <p class="card-text ps-3">
+                        CVR 10 01 16 63
+                    </p>
+                    <p class="card-text ps-3 pt-3">
+                        info_dk@espressohouse.com (for ris/ros
+                    </p>
+                    <p class="card-text ps-3">
+                        og generel info/kontakt til Espresso House
+                    </p>
+                    <p class="card-text ps-3">
+                        Danmark)
+                    </p>
+                    <p class="card-text ps-3">
+                        dksupplierinvoice@espressohouse.se (for al
+                    </p>
+                    <p class="card-text ps-3">
+                        fakturering til Espresso House Danmark)
+                    </p>
+                    <p class="card-text p-3">
+                        Kontrol rapport
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <img src="images/logo.png" class="img-fluid rounded-start" alt="logo">
             </div>
         </div>
-        <div class="col-md-4">
-            <img src="images/logo.png" class="img-fluid rounded-start" alt="logo">
-        </div>
     </div>
-</div>
-
+</container>
 
 
 <?php include "includes/footer.php"; ?>
