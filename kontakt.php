@@ -30,13 +30,6 @@
 <body>
 
 <?php include "includes/navigation.php"; ?>
-<div class="topnav">
-    <a class="active" href="#menu">Menu</a>
-    <a href="#Butikker">Butikker</a>
-    <a href="#kontakt">Kontakt</a>
-    <a href="#omos">Om os</a>
-</div>
-
 <br>
 
 <div class="container bg-kortbaggrund">
