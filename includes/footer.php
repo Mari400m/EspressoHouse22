@@ -11,18 +11,25 @@
         <a href="#capsules">Capsules</a>
     </div>
 
-<footer class="bund">
-    <div class="container text-center col">
-        <div class="row g-4">
-            <div class="sociale medier">
-                <a href="#Facebook">Facebook</a>
-                <a href="#Instagram">Instagram</a>
-                <a href="#Tiktok">Tik Tok</a>
-                <a href="#Twitter">Twitter </a>
+    <footer class="bund mt-5">
+        <div class="container">
+            <div class="row col">
+                <div class="sociale medier col-6">
+                    <a href="Facebook">Facebook
+                        <i class="facebook"></i>
+                    </a>
+                    <br><br>
+                    <a href="Instagram">Instagram</a>
+                    <br><br>
+                    <a href="Tiktok">Tik Tok</a>
+                    <br><br>
+                    <a href="Twitter">Twitter </a>
+                    <br>
+                </div>
+                <div class="skråskrift col-6">
+                    <img src="images/skråskrift.png">
+                </div>
             </div>
-            <div class="skråskrift">
-                <img src="images/skråskrift.png">
-            </div>
-    </div>
-    </div>
+        </div>
+    </footer>
 </footer>

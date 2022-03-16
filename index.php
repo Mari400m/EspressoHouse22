@@ -12,7 +12,6 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
 
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
@@ -25,13 +24,13 @@
         <div id="carousel1" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="2000">
-                    <img src="images/1.png" class="d-block w-100" alt="...">
+                    <img src="images/Ip1.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item" data-bs-interval="500">
-                    <img src="images/logo.png" class="d-block w-100" alt="...">
+                    <img src="images/Ip3.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="images/2.png" class="d-block w-100" alt="...">
+                    <img src="images/Ip2.png" class="d-block w-100" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
@@ -47,59 +46,65 @@
         </div>
 </div>
 
-<br class="text-break bg-Creamhvid">
 <br>
-
-<div class="container-fluid bg-Creamhvid-3">
-    <div class="row">
-        <div class="col">
-            <img src="images/kort.png" class="image1 rounded float-start" alt="kort">
+<div class="row">
+    <div class="col-4">
+        <div class="container">
+            <img src="images/kort.png" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+                <div class="text">Find</div>
+            </div>
         </div>
-        <div class="col">
-            <img src="images/extrememeasures2.jpg" class="rounded float-end" alt="gavekort">
+    </div>
+    <div class="col-4">
+        <div class="container">
+            <img src="images/kaffe2.png" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+                <div class="text">Kampagne</div>
+            </div>
         </div>
-        <div class="col">
-            <img src="images/kaffe2.png" class="rounded mx-auto d-block" alt="kaffe1">
+    </div>
+    <div class="col-4">
+        <div class="container">
+            <img src="images/gavekort.png" alt="Avatar" class="image" style="width:100%">
+            <div class="middle">
+                <div class="text">Gavekort</div>
+            </div>
         </div>
     </div>
 </div>
 
-<br class="text-break bg-Creamhvid"><br>
-<br>
+<br class="text-break bg-Creamhvid">
 
-<div class="container-fluid m-2">
-    <div class="card mb-3" style="max-width: 100%;">
-        <div class="row g-0 m-2">
-            <div class="col-md-4">
-                <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                    <h5 class="card-title">TOMORROW FRIENDLY</h5>
-                    <br>
-                    <p class="card-text">
-                        At Espresso House we take sustainability seriously and like many,
-                    </p>
-                    <p>
-                        we want to contribute to a sustainable future.
-                    </p>
-                    <p>
-                        To be tomorrow friendly is a significant drive force within our organization and we are
-                        constantly
-                    </p>
-                    <p>
-                        improving our operations in order to secure a legacy we can be proud of.
-                    </p>
-                    <p>
-                        We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to
-                        showcase
-                    </p>
-                    <p>
-                        just that.
-                    </p>
-                    <br><br>
-                    <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
-                </div>
+<div class="card mb-3 bg-kortet" style="max-width: 100%;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">TOMORROW FRIENDLY</h5>
+                <br>
+                <p class="card-text">
+                    At Espresso House we take sustainability seriously and like many,
+                </p>
+                <p>
+                    we want to contribute to a sustainable future.
+                </p>
+                <p>
+                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
+                </p>
+                <p>
+                    improving our operations in order to secure a legacy we can be proud of.
+                </p>
+                <p>
+                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
+                </p>
+                <p>
+                    just that.
+                </p>
+                <br><br>
+                <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
             </div>
         </div>
     </div>
