@@ -100,6 +100,7 @@
         <div class="col-md-8">
             <div class="card-body">
                 <h5 class="card-title">TOMORROW FRIENDLY</h5>
+                <br>
                 <p class="card-text">
                     At Espresso House we take sustainability seriously and like many,
                 </p>
@@ -118,7 +119,10 @@
                 <p>
                     just that.
                 </p>
+
+                <br>
                 <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
+                <br>
             </div>
         </div>
     </div>
