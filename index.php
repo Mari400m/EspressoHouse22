@@ -47,23 +47,23 @@
         </div>
 </div>
 
-<br class="text-break bg-kortbaggrund">
+<br class="text-break bg-Creamhvid">
 
-<div class="container-fluid bg-kortbaggrund p-3">
+<div class="container-fluid bg-Creamhvidp-3">
     <div class="row">
         <div class="col">
-            <img src="images/kort.png" style="max-width: 50%" class="image1 rounded float-start" alt="kort">
+            <img src="images/kort.png" class="image1 rounded float-start" alt="kort">
         </div>
         <div class="col">
             <img src="images/gavekort.png" style="max-width: 50%" class="rounded float-end" alt="gavekort">
         </div>
         <div class="col">
-            <img src="images/kaffe2.png" style="max-width: 50%;" class="rounded mx-auto d-block" alt="kaffe1">
+            <img src="images/kaffe2.png" class="rounded mx-auto d-block" alt="kaffe1">
         </div>
     </div>
 </div>
 
-<br class="text-break bg-kortbaggrund">
+<br class="text-break bg-Creamhvid">
 
 <div class="card mb-3 bg-kortet" style="max-width: 100%;">
     <div class="row g-0">
@@ -99,7 +99,7 @@
     </div>
 </div>
 
-<br class="text-break bg-kortbaggrund">
+<br class="text-break bg-Creamhvid">
 
 <div class="container-fluid bg-Grøn">
     <div class="container px-4 py-5" id="hanging-icons">
