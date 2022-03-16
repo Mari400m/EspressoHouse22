@@ -17,20 +17,20 @@
         <div class="container">
             <div class="row col">
                 <div class="sociale medier col-6">
-                    <a href="Facebook">Facebook</a> <i class="fa-brands fa-facebook"></i>
+                    <i class="fa-brands fa-facebook"></i> <a href="Facebook">Facebook</a>
 
 
                     <br><br>
 
-                    <a href="Instagram">Instagram</a>
+                    <i class="fa-brands fa-instagram"></i> <a href="Instagram">Instagram</a>
 
                     <br><br>
 
-                    <a href="Tiktok">Tik Tok</a>
+                    <i class="fa-brands fa-tiktok"></i> <a href="Tiktok">Tik Tok</a>
 
                     <br><br>
 
-                    <a href="Twitter">Twitter </a>
+                    <i class="fa-brands fa-twitter"></i> <a href="Twitter">Twitter </a>
 
                     <br><br>
                 </div>
