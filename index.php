@@ -21,7 +21,7 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="row bg-kortbaggrund">
-        <div id="carousel1" class="carousel slide" data-bs-ride="carousel">
+        <div id="carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="2000">
                     <img src="images/Ip1.png" class="d-block w-100" alt="...">
