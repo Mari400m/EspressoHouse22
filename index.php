@@ -84,25 +84,25 @@
 <div class="container p-3">
     <div class="row">
         <div class="col">
-            <img src="images/kort.png" style="max-width: 25%" class="image1 rounded float-start" alt="kort">
+            <img src="images/kort.png" style="max-width: 50%" class="image1 rounded float-start" alt="kort">
         </div>
         <div class="col">
-            <img src="images/gavekort.png" style="max-width: 25%" class="rounded float-end" alt="gavekort">
+            <img src="images/gavekort.png" style="max-width: 50%" class="rounded float-end" alt="gavekort">
         </div>
         <div class="col">
-            <img src="images/kaffe2.png" style="max-width: 25%;" class="rounded mx-auto d-block" alt="kaffe1">
+            <img src="images/kaffe2.png" style="max-width: 50%;" class="rounded mx-auto d-block" alt="kaffe1">
         </div>
     </div>
 </div>
 
 <br><br>
-<hr class="">Bæredygtighed<hr>
+<hr>
 <div class="card mb-3" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4">
             <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8 bg-kortbaggrund">
             <div class="card-body">
                 <h5 class="card-title">TOMORROW FRIENDLY</h5>
                 <p class="card-text">
