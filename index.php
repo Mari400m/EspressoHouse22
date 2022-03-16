@@ -43,11 +43,13 @@
                     <img src="images/2.png" class="d-block w-100" alt="...">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -66,11 +68,13 @@
                     <img src="images/1.png" class="d-block w-100" alt="...">
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
             </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                    data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
@@ -130,72 +134,79 @@
     </div>
 </div>
 
-
-<div class="container px-4 py-5" id="hanging-icons">
-    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-        <div class="col-6 d-flex align-items-start">
-            <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                <img id="cake" src="images/cold.png" srcset="images/cold.png 1x, images/cold@2x.png 2x" class="rounded-circle">
+<div class="container-fluid bg-Grøn">
+    <div class="container px-4 py-5" id="hanging-icons">
+        <div class="row g-4">
+            <div class="col-6 d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
+                    <img id="cake" src="images/cold.png" srcset="images/cold.png 1x, images/cold@2x.png 2x"
+                         class="rounded-circle">
+                </div>
+                <div>
+                    <h2>Kolde drikke</h2>
+                    <br>
+                    <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                        sentence and probably just keep going until we run out of words.</p>
+                    <br>
+                    <a href="#" class="btn btn-primary">
+                        Læs mere her
+                    </a>
+                </div>
             </div>
-            <div>
-                <h2>Kolde drikke</h2>
-                <br>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <br>
-                <a href="#" class="btn btn-primary">
-                    Læs mere her
-                </a>
+            <div class="col-6 d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
+                    <img id="cake" src="images/coffee.png" srcset="images/coffee.png 1x, images/coffee@2x.png 2x"
+                         class="rounded-circle">
+                </div>
+                <div>
+                    <h2>Varme drikke</h2>
+                    <br>
+                    <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                        sentence and probably just keep going until we run out of words.</p>
+                    <br>
+                    <a href="#" class="btn btn-primary">
+                        Læs mere her
+                    </a>
+                </div>
             </div>
         </div>
-        <div class="col-6 d-flex align-items-start">
-            <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                <img id="cake" src="images/coffee.png" srcset="images/coffee.png 1x, images/coffee@2x.png 2x" class="rounded-circle">
+    </div>
+    <div class="container px-4 py-5" id="hanging-icons">
+        <div class="row g-4">
+            <div class="col-6 d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
+                    <img id="cake" src="images/food.png" srcset="images/food.png 1x, images/food@2x.png 2x"
+                         class="rounded-circle">
+                </div>
+                <div>
+                    <h2>Mad</h2>
+                    <br>
+                    <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                        sentence and probably just keep going until we run out of words.</p>
+                    <br>
+                    <a href="#" class="btn btn-primary">
+                        Læs mere her
+                    </a>
+                </div>
             </div>
-            <div>
-                <h2>Varme drikke</h2>
-                <br>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <br>
-                <a href="#" class="btn btn-primary">
-                    Læs mere her
-                </a>
+            <div class="col-6 d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
+                    <img id="cake" src="images/cake.png" srcset="images/cake.png 1x, images/cake@2x.png 2x" class="rounded-circle">
+                </div>
+                <div>
+                    <h2>Bagværk</h2>
+                    <br>
+                    <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                        sentence and probably just keep going until we run out of words.</p>
+                    <br>
+                    <a href="#" class="btn btn-primary">
+                        Læs mere her
+                    </a>
+                </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container px-4 py-5" id="hanging-icons">
-    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
-        <div class="col-6 d-flex align-items-start">
-            <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                <img id="cake" src="images/food.png" srcset="images/food.png 1x, images/food@2x.png 2x" class="rounded-circle">
-            </div>
-            <div>
-                <h2>Mad</h2>
-                <br>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <br>
-                <a href="#" class="btn btn-primary">
-                    Læs mere her
-                </a>
-            </div>
-        </div>
-        <div class="col-6 d-flex align-items-start">
-            <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
-                <img id="cake" src="images/cake.png" srcset="images/cake.png 1x, images/cake@2x.png 2x" class="rounded-circle">
-            </div>
-            <div>
-                <h2>Bagværk</h2>
-                <br>
-                <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-                <br>
-                <a href="#" class="btn btn-primary">
-                    Læs mere her
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-
 <br>
 
 <?php include "includes/footer.php"; ?>
