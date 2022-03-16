@@ -74,9 +74,7 @@
     </div>
 </div>
 
-<br>
-
-<hr>
+<br class="text-break bg-kortbaggrund">
 
 <div class="container-fluid bg-kortbaggrund p-3">
     <div class="row">
@@ -92,8 +90,9 @@
     </div>
 </div>
 
-<hr>
-<div class="card mb-3 bg-Grey" style="max-width: 100%;">
+<br class="text-break bg-kortbaggrund">
+
+<div class="card mb-3 bg-kortet" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4">
             <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
@@ -124,6 +123,8 @@
         </div>
     </div>
 </div>
+
+<br class="text-break bg-kortbaggrund">
 
 <div class="container-fluid bg-Grøn">
     <div class="container px-4 py-5" id="hanging-icons">
