@@ -55,7 +55,7 @@
             <img src="images/kort.png" class="image1 rounded float-start" alt="kort">
         </div>
         <div class="col">
-            <img src="images/gavekort.png" style="max-width: 50%" class="rounded float-end" alt="gavekort">
+            <img src="images/extrememeasures2.jpg" class="rounded float-end" alt="gavekort">
         </div>
         <div class="col">
             <img src="images/kaffe2.png" class="rounded mx-auto d-block" alt="kaffe1">
