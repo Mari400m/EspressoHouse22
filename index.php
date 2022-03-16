@@ -84,13 +84,13 @@
 <div class="container p-3">
     <div class="row">
         <div class="col">
-            <img src="images/kort.png" style="max-width: 25%" class="image1 rounded float-start" alt="kort"
+            <img src="images/kort.png" style="max-width: 25%" class="image1 rounded float-start" alt="kort">
         </div>
         <div class="col">
-            <img src="images/gavekort.png" style="max-width: 25%" class="rounded float-end" alt="gavekort"
+            <img src="images/gavekort.png" style="max-width: 25%" class="rounded float-end" alt="gavekort">
         </div>
         <div class="col">
-            <img src="images/kaffe2.png" style="max-width: 25%;" class="rounded mx-auto d-block" alt="kaffe1"
+            <img src="images/kaffe2.png" style="max-width: 25%;" class="rounded mx-auto d-block" alt="kaffe1">
         </div>
     </div>
 </div>
