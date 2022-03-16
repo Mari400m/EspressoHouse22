@@ -48,8 +48,9 @@
 </div>
 
 <br class="text-break bg-Creamhvid">
+<br>
 
-<div class="container-fluid bg-Creamhvidp-3">
+<div class="container-fluid bg-Creamhvid-3">
     <div class="row">
         <div class="col">
             <img src="images/kort.png" class="image1 rounded float-start" alt="kort">
@@ -63,37 +64,42 @@
     </div>
 </div>
 
-<br class="text-break bg-Creamhvid">
+<br class="text-break bg-Creamhvid"><br>
+<br>
 
-<div class="card mb-3 bg-kortet" style="max-width: 100%;">
-    <div class="row g-0">
-        <div class="col-md-4">
-            <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
-        </div>
-        <div class="col-md-8">
-            <div class="card-body">
-                <h5 class="card-title">TOMORROW FRIENDLY</h5>
-                <br>
-                <p class="card-text">
-                    At Espresso House we take sustainability seriously and like many,
-                </p>
-                <p>
-                    we want to contribute to a sustainable future.
-                </p>
-                <p>
-                    To be tomorrow friendly is a significant drive force within our organization and we are constantly
-                </p>
-                <p>
-                    improving our operations in order to secure a legacy we can be proud of.
-                </p>
-                <p>
-                    We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to showcase
-                </p>
-                <p>
-                    just that.
-                </p>
-                <br><br>
-                <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
+<div class="container-fluid m-5">
+    <div class="card mb-3" style="max-width: 100%;">
+        <div class="row g-0 m-2">
+            <div class="col-md-4">
+                <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">TOMORROW FRIENDLY</h5>
+                    <br>
+                    <p class="card-text">
+                        At Espresso House we take sustainability seriously and like many,
+                    </p>
+                    <p>
+                        we want to contribute to a sustainable future.
+                    </p>
+                    <p>
+                        To be tomorrow friendly is a significant drive force within our organization and we are
+                        constantly
+                    </p>
+                    <p>
+                        improving our operations in order to secure a legacy we can be proud of.
+                    </p>
+                    <p>
+                        We are not there yet, but we are on the right path and with Tomorrow Friendly we hope to
+                        showcase
+                    </p>
+                    <p>
+                        just that.
+                    </p>
+                    <br><br>
+                    <p class="card-text"><small class="text-muted">Read more at www.tomorrowfriendly.com</small></p>
+                </div>
             </div>
         </div>
     </div>
