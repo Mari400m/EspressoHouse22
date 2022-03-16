@@ -21,14 +21,6 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="topnav d-flex justify-content-evenly">
-    <a class="active" href="#menu">Menu</a>
-    <a href="#Butikker">Butikker</a>
-    <img src="images/logo.png" style="max-width: 7%" alt="logo top">
-    <a href="#kontakt">Kontakt</a>
-    <a href="#omos">Om os</a>
-</div>
-
 <div class="row bg-kortbaggrund">
     <div class="col-6">
         <div id="carousel1" class="carousel slide" data-bs-ride="carousel">
@@ -86,7 +78,7 @@
 
 <hr>
 
-<div class="container bg-kortet p-3">
+<div class="container-fluid bg-kortbaggrund p-3">
     <div class="row">
         <div class="col">
             <img src="images/kort.png" style="max-width: 50%" class="image1 rounded float-start" alt="kort">
@@ -100,7 +92,6 @@
     </div>
 </div>
 
-<br><br>
 <hr>
 <div class="card mb-3 bg-Grey" style="max-width: 100%;">
     <div class="row g-0">
