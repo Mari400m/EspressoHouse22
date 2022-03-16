@@ -47,12 +47,14 @@
 </div>
 
 <br>
+<br>
+
 <div class="row">
     <div class="col-4">
         <div class="container">
             <img src="images/kort.png" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-                <div class="text">Find</div>
+                <div class="text bg-Creamhvid">Find</div>
             </div>
         </div>
     </div>
@@ -60,7 +62,7 @@
         <div class="container">
             <img src="images/kaffe2.png" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-                <div class="text">Kampagne</div>
+                <div class="text bg-Creamhvid">Kampagne</div>
             </div>
         </div>
     </div>
@@ -68,13 +70,13 @@
         <div class="container">
             <img src="images/gavekort.png" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-                <div class="text">Gavekort</div>
+                <div class="text bg-Creamhvid">Gavekort</div>
             </div>
         </div>
     </div>
 </div>
 
-<br class="text-break bg-Creamhvid">
+<br>
 
 <div class="card mb-3 bg-kortet" style="max-width: 100%;">
     <div class="row g-0">
@@ -110,7 +112,7 @@
     </div>
 </div>
 
-<br class="text-break bg-Creamhvid">
+<br>
 
 <div class="container-fluid bg-Grøn">
     <div class="container px-4 py-5" id="hanging-icons">
