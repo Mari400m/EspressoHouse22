@@ -67,7 +67,7 @@
 <br class="text-break bg-Creamhvid"><br>
 <br>
 
-<div class="container-fluid m-5">
+<div class="container-fluid m-2">
     <div class="card mb-3" style="max-width: 100%;">
         <div class="row g-0 m-2">
             <div class="col-md-4">
