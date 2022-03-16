@@ -139,7 +139,9 @@
             </div>
             <div>
                 <h2>Kolde drikke</h2>
+                <br>
                 <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <br>
                 <a href="#" class="btn btn-primary">
                     Læs mere her
                 </a>
@@ -150,8 +152,10 @@
                 <img id="cake" src="images/coffee.png" srcset="images/coffee.png 1x, images/coffee@2x.png 2x" class="rounded-circle">
             </div>
             <div>
-                <h2>Varme drikke</h2> <i class="fa-duotone fa-cup-togo"></i>
+                <h2>Varme drikke</h2>
+                <br>
                 <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <br>
                 <a href="#" class="btn btn-primary">
                     Læs mere her
                 </a>
@@ -167,7 +171,9 @@
             </div>
             <div>
                 <h2>Mad</h2>
+                <br>
                 <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <br>
                 <a href="#" class="btn btn-primary">
                     Læs mere her
                 </a>
@@ -179,7 +185,9 @@
             </div>
             <div>
                 <h2>Bagværk</h2>
+                <br>
                 <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+                <br>
                 <a href="#" class="btn btn-primary">
                     Læs mere her
                 </a>
