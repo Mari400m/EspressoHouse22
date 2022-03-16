@@ -11,6 +11,7 @@
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/e107c235f0.js" crossorigin="anonymous"></script>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -21,31 +22,33 @@
 <?php include "includes/navigation.php"; ?>
 
 <div class="row bg-kortbaggrund">
-        <div id="carousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active" data-bs-interval="2000">
-                    <img src="images/Ip1.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item" data-bs-interval="500">
-                    <img src="images/Ip3.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="images/Ip2.png" class="d-block w-100" alt="...">
-                </div>
+    <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="2000">
+                <img src="images/Ip1.png" class="d-block w-100" alt="...">
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
-                    data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
-                    data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
+            <div class="carousel-item" data-bs-interval="500">
+                <img src="images/Ip3.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="images/Ip2.png" class="d-block w-100" alt="...">
+            </div>
         </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+                data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+                data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
 </div>
 
+<br>
+<br>
 <br>
 <br>
 
@@ -68,7 +71,7 @@
     </div>
     <div class="col-4">
         <div class="container">
-            <img src="images/gavekort.png" alt="Avatar" class="image" style="width:100%">
+            <img src="images/gavekort.png" alt="Avatar" class="image" id="gavekort">
             <div class="middle">
                 <div class="text bg-Creamhvid">Gavekort</div>
             </div>
@@ -76,6 +79,9 @@
     </div>
 </div>
 
+<br>
+<br>
+<br>
 <br>
 
 <div class="card mb-3 bg-kortet" style="max-width: 100%;">
