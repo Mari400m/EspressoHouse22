@@ -9,7 +9,8 @@ $custom-colors: (
   "primary": #0d6efd, //Retter primary
   "minFarve": #ffff00, //Tilføjer minFarve
   "kortbaggrund": #E8E4D9,
-  "Grey": #D2D0C6
+  "kortet": #D2D0C6,
+  "Hvid": #FEFFF2,
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 $theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");

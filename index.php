@@ -29,7 +29,7 @@
     <a href="#omos">Om os</a>
 </div>
 
-<div class="row">
+<div class="row bg-kortbaggrund">
     <div class="col-6">
         <div id="carousel1" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -78,11 +78,11 @@
     </div>
 </div>
 
-<br><br>
+<br>
 
 <hr>
 
-<div class="container p-3">
+<div class="container bg-kortet p-3">
     <div class="row">
         <div class="col">
             <img src="images/kort.png" style="max-width: 50%" class="image1 rounded float-start" alt="kort">
