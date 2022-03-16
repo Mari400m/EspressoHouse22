@@ -106,22 +106,6 @@
         <div class="row g-4">
             <div class="col-6 d-flex align-items-start">
                 <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
-                    <img id="cake" src="images/cold.png" srcset="images/cold.png 1x, images/cold@2x.png 2x"
-                         class="rounded-circle">
-                </div>
-                <div>
-                    <h2>Kolde drikke</h2>
-                    <br>
-                    <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
-                        sentence and probably just keep going until we run out of words.</p>
-                    <br>
-                    <a href="#" class="btn btn-primary">
-                        Læs mere her
-                    </a>
-                </div>
-            </div>
-            <div class="col-6 d-flex align-items-start">
-                <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
                     <img id="cake" src="images/coffee.png" srcset="images/coffee.png 1x, images/coffee@2x.png 2x"
                          class="rounded-circle">
                 </div>
@@ -136,10 +120,6 @@
                     </a>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="container px-4 py-5" id="hanging-icons">
-        <div class="row g-4">
             <div class="col-6 d-flex align-items-start">
                 <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
                     <img id="cake" src="images/food.png" srcset="images/food.png 1x, images/food@2x.png 2x"
@@ -156,9 +136,31 @@
                     </a>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="container px-4 py-5" id="hanging-icons">
+        <div class="row g-4">
             <div class="col-6 d-flex align-items-start">
                 <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
-                    <img id="cake" src="images/cake.png" srcset="images/cake.png 1x, images/cake@2x.png 2x" class="rounded-circle">
+                    <img id="cake" src="images/cold.png" srcset="images/cold.png 1x, images/cold@2x.png 2x"
+                         class="rounded-circle">
+                </div>
+                <div>
+                    <h2>Kolde drikke</h2>
+                    <br>
+                    <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
+                        sentence and probably just keep going until we run out of words.</p>
+                    <br>
+                    <a href="#" class="btn btn-primary">
+                        Læs mere her
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-6 d-flex align-items-start">
+                <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
+                    <img id="cake" src="images/cake.png" srcset="images/cake.png 1x, images/cake@2x.png 2x"
+                         class="rounded-circle">
                 </div>
                 <div>
                     <h2>Bagværk</h2>
