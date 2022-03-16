@@ -97,7 +97,7 @@
 
 <br><br>
 <hr>
-<div class="card mb-3 bg-kortbaggrund" style="max-width: 100%;">
+<div class="card mb-3 bg-Grey" style="max-width: 100%;">
     <div class="row g-0">
         <div class="col-md-4">
             <img src="images/barrista.jpg" class="img-fluid rounded-start" alt="...">

@@ -39,7 +39,7 @@
 
 <br>
 
-<div class="container">
+<div class="container bg-kortbaggrund">
     <div class="clearfix">
         <img src="images/logo.png" class="col-lg-3 float-md-end mb-3 ms-md-3" alt="...">
 
@@ -100,6 +100,8 @@
 
     </div>
 </div>
+
+<br>
 
 <?php include "includes/footer.php"; ?>
 </body>
