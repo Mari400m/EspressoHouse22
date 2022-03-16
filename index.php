@@ -81,13 +81,10 @@
 
 <hr>
 
-<div class="container1 p-3">
+<div class="container p-3">
     <div class="row">
         <div class="col">
             <img src="images/kort.png" style="max-width: 25%" class="image1 rounded float-start" alt="kort"
-            <div class="middle">
-                <div class="text">kort</div>
-            </div>
         </div>
         <div class="col">
             <img src="images/gavekort.png" style="max-width: 25%" class="rounded float-end" alt="gavekort"
