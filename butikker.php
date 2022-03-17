@@ -21,7 +21,17 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<h5>hej med dig</h5>
+<div class="container">
+
+    <!--Google map-->
+    <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 1000px">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d578609.6258106634!2d10.994411240558115!3d55.494147219508626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sespresso%20house!5e0!3m2!1sda!2sus!4v1647523776495!5m2!1sda!2sus" width="1200" height="900" style="border:0;" allowfullscreen="" loading="lazy">
+                 allowfullscreen></iframe>
+    </div>
+
+    <!--Google Maps-->
+
+</div>
 
 <?php include "includes/footer.php"; ?>
 
