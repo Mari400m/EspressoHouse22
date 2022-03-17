@@ -3,6 +3,6 @@
     <a href="butikker.php">Butikker</a>
     <img src="images/logo.png" style="max-width: 7%" alt="logo top">
     <a href="kontakt.php">Kontakt</a>
-    <a href="../voreskaffe.php">Vores kaffe</a>
+    <a href="voreskaffe.php">Vores kaffe</a>
 
 </div>
