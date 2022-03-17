@@ -57,7 +57,7 @@
         <div class="container">
             <img src="images/kort.png" alt="Avatar" class="image" style="width:100%">
             <div class="middle">
-                <div class="text bg-Creamhvid">Find</div>
+                <div class="text bg-Creamhvid">Find os</div>
             </div>
         </div>
     </div>
@@ -129,28 +129,29 @@
                          class="rounded-circle">
                 </div>
                 <div>
-                    <h2>Varme drikke</h2>
+                    <h4>Varme drikke</h4>
                     <br>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
                         sentence and probably just keep going until we run out of words.</p>
                     <br>
-                    <a href="#" class="btn btn-primary">
+                    <a href="#" class="btn btn-brun">
                         Læs mere her
                     </a>
                 </div>
             </div>
+            <br>
             <div class="col-6 d-flex align-items-start">
                 <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
                     <img id="cake" src="images/food.png" srcset="images/food.png 1x, images/food@2x.png 2x"
                          class="rounded-circle">
                 </div>
                 <div>
-                    <h2>Mad</h2>
+                    <h4>Mad</h4>
                     <br>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
                         sentence and probably just keep going until we run out of words.</p>
                     <br>
-                    <a href="#" class="btn btn-primary">
+                    <a href="#" class="btn btn-brun">
                         Læs mere her
                     </a>
                 </div>
@@ -165,29 +166,28 @@
                          class="rounded-circle">
                 </div>
                 <div>
-                    <h2>Kolde drikke</h2>
+                    <h4>Kolde drikke</h4>
                     <br>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
                         sentence and probably just keep going until we run out of words.</p>
                     <br>
-                    <a href="#" class="btn btn-primary">
+                    <a href="#" class="btn btn-brun">
                         Læs mere her
                     </a>
                 </div>
             </div>
-
             <div class="col-6 d-flex align-items-start">
                 <div class="icon-square bg-light text-dark flex-shrink-0 me-3 rounded-circle">
                     <img id="cake" src="images/cake.png" srcset="images/cake.png 1x, images/cake@2x.png 2x"
                          class="rounded-circle">
                 </div>
                 <div>
-                    <h2>Bagværk</h2>
+                    <h4>Bagværk</h4>
                     <br>
                     <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another
                         sentence and probably just keep going until we run out of words.</p>
                     <br>
-                    <a href="#" class="btn btn-primary">
+                    <a href="#" class="btn btn-brun">
                         Læs mere her
                     </a>
                 </div>
