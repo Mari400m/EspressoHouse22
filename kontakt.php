@@ -32,11 +32,14 @@
 <?php include "includes/navigation.php"; ?>
 <br>
 
-<div class="container bg-Creamhvid">
+<div class="container-fluid bg-Creamhvid">
     <div class="clearfix">
         <img src="images/logo.png" class="col-lg-3 float-md-end mb-3 ms-md-3" alt="...">
 
-        <h5 class="card-title">Kontakt</h5>
+        <h1 class="card-title">Kontakt</h1>
+
+        <br>
+
         <p class="card-text">
             Tøv ikke med at kontakte os,
         </p>
@@ -62,8 +65,11 @@
         </p>
 
         <br>
+        <br>
 
-        <h5 class="card-title">Administration</h5>
+        <h1 class="card-title">Administration</h1>
+
+        <br>
 
         <p class="card-text">
             Vimmelskaftet 43, 4. sal DK-1161 København K
